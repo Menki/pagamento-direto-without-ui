@@ -6,3 +6,4 @@ bin/resources.ap_
 *.class
 .classpath
 gen/com/*
+.project
